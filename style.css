@@ -21,6 +21,18 @@
     flex: 1;
 }
 
+.pt1 {
+    display: flex;
+    margin:50px;
+    background: #1F2937;
+}
+
+.pt1 div {
+    text-align: center;
+    height: 100%;
+    flex: 1;
+}
+
 #maintext {
     color:#F9FAF8;
     font-size: 48px;
