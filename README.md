@@ -1,2 +1,2 @@
-#Odin Project Landing Page 
+# Odin Project Landing Page 
 Simple website using flex containers.
