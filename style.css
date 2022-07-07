@@ -13,11 +13,14 @@
 .main1 {
     display: flex;
     background: #1F2937;
+    border-size
 }
 
 .main1 div {
     text-align: center;
     height: 100%;
+    border:4px solid blue;
+    margin-left: 20px;
     flex: 1;
 }
 
