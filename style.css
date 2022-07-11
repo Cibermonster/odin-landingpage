@@ -35,6 +35,13 @@
     margin-right: 5%;
     flex: 1;
 }
+.main2 {
+    display: flex;
+}
+.main3 {
+    display: flex;
+    background: #E5E7EB;
+}
 
 .pt1 {
     display: flex;
