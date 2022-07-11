@@ -12,14 +12,12 @@
     margin:10px;
 }
 .logo {
-    border:4px solid blue;
     padding:20px;
     font-size:24px; 
     font-weight: bold;
 }
 .navbar {
     display:flex;
-    border:4px solid blue;
     padding:20px;
 }
 .main1 {
