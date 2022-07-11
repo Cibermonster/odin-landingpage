@@ -115,6 +115,8 @@
 
 #quoteauth {
     font-size: 18px;
+    font-weight: 600;
+    text-align: right;
 }
 .button {
     background-color: #3882F6;
