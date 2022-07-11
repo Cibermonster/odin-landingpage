@@ -18,7 +18,10 @@
 }
 .navbar {
     display:flex;
-    padding:20px;
+}
+.navbar div {
+    height:20px;
+    background-color: rebeccapurple;
 }
 .main1 {
     display: flex;
@@ -123,23 +126,25 @@
 }
 .banner {
     display:flex;
-    justify-content: center;
     background-color: #3882F6;
-    text-align: center;
     font-weight: bold;
     padding:10px;
     color:white;
     border-radius: 7px;
     width: 75%;
     padding:25px;
-    text-align: left;
-    align-items: center;
+    justify-content: space-between;
 }
 .banner .button {
     border: 1px solid white;
     height: 20px;
+    align-self: center;
+    margin-right: 5%;
 }
-.footer{
+.banner .b_desc {
+    margin-left: 5%;
+}
+.footer {
     background-color: #1F2937;
     color: white;
     padding-bottom:25px;
